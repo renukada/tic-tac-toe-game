@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #202030;
+    background-color: #0b132b;
     text-align: center;
 }
 
@@ -27,7 +27,7 @@ body {
 }
 
 .box {
-    background-color: #B0A990;
+    background-color: #dcc9b6;
     height: 18vmin;
     width: 18vmin;
     border-radius: 15%;
@@ -39,7 +39,7 @@ body {
 #reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #39304A;
+    background-color: #3a506b;
     color: antiquewhite;
     border-radius: 1rem;
     border: none;
@@ -47,7 +47,7 @@ body {
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #39304A;
+    background-color: #3a506b;
     color: antiquewhite;
     border-radius: 1rem;
     border: none;
