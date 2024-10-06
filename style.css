@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: #202030;
+    background-color: #494968;
     text-align: center;
 }
 
@@ -27,19 +27,19 @@ body {
 }
 
 .box {
-    background-color: #B0A990;
+    background-color: #f6f1e0;
     height: 18vmin;
     width: 18vmin;
     border-radius: 15%;
     border: none;
     font-size: 6vmin;
     color: #7d075a;
-    box-shadow: 0 0 1rem rgba(0,0,0,0.5);
+    box-shadow: 1rem .5rem 1rem rgba(32, 31, 31, 0.5);
 }
 #reset-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #39304A;
+    background-color: #3b226a;
     color: antiquewhite;
     border-radius: 1rem;
     border: none;
@@ -47,7 +47,7 @@ body {
 #new-btn{
     padding: 1rem;
     font-size: 1.25rem;
-    background-color: #39304A;
+    background-color: #2f1c53;
     color: antiquewhite;
     border-radius: 1rem;
     border: none;
